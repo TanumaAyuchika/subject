@@ -17,6 +17,7 @@
             <h2 class='title'>{{ $post->title }}</h2>
             <p class='body'>{{ $post->body }}</p>
              <p class='updated_at'>{{ $post->updated_at}}</p>
+            
         </div>
         <div class='back'>[<a href='/'>back</a>]</div>
     </body>
